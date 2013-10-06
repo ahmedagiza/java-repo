@@ -4,7 +4,7 @@
 
 /**
  * @author aagiza
- * This is just a test
+ * This is just a test -- new wave
  */
 public class Student {
 
